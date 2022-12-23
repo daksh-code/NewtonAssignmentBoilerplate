@@ -1,0 +1,3 @@
+Write the code in src/App.js to switch color of the text in input box without re-rendering the component
+
+Hint->use useRef hook
